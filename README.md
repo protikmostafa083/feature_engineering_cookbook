@@ -1,0 +1,1 @@
+The libraries used here can be found in the requirements.txt - published in September,2024.
